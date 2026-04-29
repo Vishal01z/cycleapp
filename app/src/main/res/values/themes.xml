@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Cycleapp" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">#9B8EC4</item>
+        <item name="colorPrimaryVariant">#C5C0E0</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#8FAF9F</item>
+        <item name="android:windowBackground">#F5F5F5</item>
+    </style>
+</resources>
