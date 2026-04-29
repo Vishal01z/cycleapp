@@ -10,11 +10,11 @@
 
 | Home | Track | Insights |
 |------|-------|----------|
-| ![Home](screenshots/home.png) | ![Track](screenshots/track.png) | ![Insights](screenshots/insights.png) |
+| ![Home](screenshots/Screenshot_20260429_131312.png) | ![Track](screenshots/Screenshot_20260429_131254.png) | ![Insights](screenshots/Screenshot_20260429_131322.png) |
 
 | Monthly Toggle | Weekly Toggle | Month Picker |
 |----------------|---------------|--------------|
-| ![Monthly](screenshots/monthly.png) | ![Weekly](screenshots/weekly.png) | ![Picker](screenshots/picker.png) |
+| ![Monthly](screenshots/Screenshot_20260429_131353.png) | ![Weekly](screenshots/Screenshot_20260429_131344.png) |
 
 ---
 
