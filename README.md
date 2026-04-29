@@ -182,7 +182,7 @@ app/src/main/
 ## 👨‍💻 Author
 
 **Vishal**
-- GitHub: [@vishal](https://github.com/yourusername)
+- GitHub: [@vishal](https://github.com/Vishal01z/)
 
 ---
 
